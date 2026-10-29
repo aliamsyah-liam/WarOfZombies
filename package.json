@@ -1,0 +1,12 @@
+{
+  "name": "war-of-zombies",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WAR OF ZOMBIES - zombie survival open world Kalimantan",
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "three": "0.128.0"
+  }
+}
